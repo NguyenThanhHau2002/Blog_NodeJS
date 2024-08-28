@@ -1,0 +1,10 @@
+.card-custom-item {
+  margin-top: 16px;
+  margin-left: 20px;
+  margin-right: 10px; }
+
+.user-avatar {
+  width: 28px;
+  height: 28px;
+  margin-right: 4px;
+  border-radius: 50%; }
